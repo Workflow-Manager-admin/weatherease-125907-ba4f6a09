@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/tmp/kavia/workspace/code-generation/weatherease-125907-ba4f6a09/main_container_for_weatherease"
+}

@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/weatherease-125907-ba4f6a09/main_container_for_weatherease"
+}
